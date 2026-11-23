@@ -19,8 +19,6 @@ I help teams evaluate AI use cases, design applications on AWS, and protect sens
 
 - **Capital a Tu Favor · Chief Technology Officer**  
   Led the AWS architecture and production rollout of a payroll advance platform, including digital onboarding, identity verification, and payment integrations.
-- **FinHabits · Chief Data Officer**  
-  Held a data leadership role in fintech.
 - **Artificial Intelligence Center · AI Trainer and Consultant**  
   Delivered AI training and consulting.
 - **UACJ · Professor and Researcher**  
